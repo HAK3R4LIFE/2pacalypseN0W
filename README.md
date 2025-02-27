@@ -5,5 +5,5 @@
 ------------------------------------------------------------------------------------------------------------------
 ## The Funny
 This program doesn't work! please contribute to make this memorable like nmap or hashcat!
-@github this program is meant for pentesting and actually works, I am not responsible for any legal trouble that the user gets into.
+@github this program is meant for pentesting, I am not responsible for any legal trouble that the user gets into.
 WIP
